@@ -1,4 +1,4 @@
-#Light Pattern using Music
+# Light Pattern using Music
   ## Abstract:
 In our project creating light pattern with diffrent colours using high and low pitch of sound. This uses a sound sensor which will turn on and off led by creating a pattern. 
 ### Components:
